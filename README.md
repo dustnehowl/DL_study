@@ -9,3 +9,6 @@ CIFAR 데이터셋 classification
 
 ## 230613
 ResNet 구현
+
+## 230615
+DenseNet 구현
