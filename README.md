@@ -12,3 +12,6 @@ ResNet 구현
 
 ## 230615
 DenseNet 구현
+
+## 230616
+DenseNet에 Dropout 추가 후 비교
