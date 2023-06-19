@@ -15,3 +15,9 @@ DenseNet 구현
 
 ## 230616
 DenseNet에 Dropout 추가 후 비교
+
+## 230618
+EfficientNet 논문 리뷰
+
+## 230619
+MobileNet 논문 리뷰(DW Conv 복습)
