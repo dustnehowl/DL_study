@@ -21,3 +21,6 @@ EfficientNet 논문 리뷰
 
 ## 230619
 MobileNet 논문 리뷰(DW Conv 복습)
+
+## 230620
+파이토치 공부(앞으로 pytorch로 구현하기 위해)
