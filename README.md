@@ -27,3 +27,6 @@ MobileNet 논문 리뷰(DW Conv 복습)
 
 ## 230707
 kaggle Digit Recognizer 99.1%(Ranked 408)
+
+## 230715
+Dacon 음성감정분류 0.80673(PUBLIC Ranked 16)
