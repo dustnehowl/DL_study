@@ -36,3 +36,6 @@ Dacon 음성감정분류 0.81914(PUBLIC Ranked 13) optimizer 수정 Adam -> Adam
 
 ## 230724
 AIFactory 긍부정 댓글 분류 모델 추가
+
+## 230726
+multi-gpu 실습
