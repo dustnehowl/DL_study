@@ -47,3 +47,6 @@ PEFT 정리
 llama-2-13b-chat-hf 실습 
 TITAN 2대에 나눠서 infer
 한국어로 파인튜닝 필요
+
+## 230730
+Quantization 정리
