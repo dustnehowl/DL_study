@@ -50,3 +50,6 @@ TITAN 2대에 나눠서 infer
 
 ## 230730
 Quantization 정리
+
+## 230731
+DataParallel 적용
