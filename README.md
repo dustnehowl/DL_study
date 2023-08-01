@@ -53,3 +53,6 @@ Quantization 정리
 
 ## 230731
 DataParallel 적용
+
+## 230801
+In-Context Learning 정리
